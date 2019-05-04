@@ -9,6 +9,7 @@
 ## global npm packages
 
 - http-server
+- server
 
 ## configurations
 
@@ -18,6 +19,12 @@
 ## vscode extensions
 
 - sublime text keymap
+- prettier
+- eslint
+- formatting toggle
+- Material Icon Theme
+- Color highlight
+- Bracket Pair Colorizer
 
 ## optional software
 
