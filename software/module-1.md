@@ -18,7 +18,6 @@
 
 ## vscode extensions
 
-- sublime text keymap
 - prettier
 - eslint
 - formatting toggle
