@@ -25,7 +25,7 @@
 - [https://raphamontenegro.github.io/hungry-greta/](https://raphamontenegro.github.io/hungry-greta/)
 - [https://germanrodrickson.github.io/game-module1/](https://germanrodrickson.github.io/game-module1/)
 - [https://sebachowa.github.io/pixel-wars/](https://sebachowa.github.io/pixel-wars/)
-
+---
 webdev-full-
 
 - [https://elegidoadedo.github.io/Parked-project/](https://elegidoadedo.github.io/Parked-project/)
@@ -43,6 +43,20 @@ webdev-full-
 - [https://annamrp.github.io/kill-dora-game/](https://annamrp.github.io/kill-dora-game/)
 - [https://retse.github.io/Space-Reaction/](https://retse.github.io/Space-Reaction/)
 - [https://juanxcv.github.io/mkdonalds/](https://juanxcv.github.io/mkdonalds/)
+---
+webdev-pt-
+
+  - https://alexbhdez.github.io/dragon-vegano/
+  - https://emeeneu.github.io/ih-project-1-pang/
+---
+
+  - https://buski87.github.io/proyect-game/
+  - https://alejandroclose.github.io/bomberman/
+  - https://xapi1972.github.io/gameStreetFighter2/index.html
+  - https://jchaconalvarez.github.io/lastminutefighter/
+  - https://laurarojeda.github.io/Downfett/
+  - https://grannysimons.github.io/snakeVsBlock/
+---
 
 - Claudia Infantes Villafranca [link](https://pjharvey38.github.io/Ironhack-Game/) [Slides](https://slides.com/claudiainfantesvillafranca/super-pikara)
 - Inés Castelltort [link](https://inescv.github.io/WhatTheColor/) [Slides](https://slides.com/inescv/deck#/)
