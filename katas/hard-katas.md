@@ -51,21 +51,35 @@ function namesSorter (departmentsArray) {
 - [Persistent Bugger.](https://www.codewars.com/kata/persistent-bugger)
   //TODO: @manu @alex
 - [Find the missing letter](https://www.codewars.com/kata/find-the-missing-letter/javascript)
-  //TODO: @manu @alex
+
+```javascript
+function findMissingLetter(array) {
+  let first = array[0].charCodeAt(0);
+  for (let i = 1; i < array.length; i++) {
+    if (first + i !== array[i].charCodeAt(0)) {
+      return String.fromCharCode(first + i);
+    }
+  }
+  throw new Error("Invalid input");
+}
+```
+
+//TODO: @manu @alex
+
 - [Street Fighter 2 - Character Selection](https://www.codewars.com/kata/street-fighter-2-character-selection/javascript)
   //TODO: @manu @alex
 - [Playing with digits](https://www.codewars.com/kata/playing-with-digits/javascript)
 
 - [Sum of Pairs](https://www.codewars.com/kata/sum-of-pairs/javascript)
 
-```
-var sum_pairs=function(ints, s){
-  var seen = {}
+```javascript
+var sum_pairs = function(ints, s) {
+  var seen = {};
   for (var i = 0; i < ints.length; ++i) {
     if (seen[s - ints[i]]) return [s - ints[i], ints[i]];
-    seen[ints[i]] = true
+    seen[ints[i]] = true;
   }
-}
+};
 ```
 
 //TODO: @manu @alex
