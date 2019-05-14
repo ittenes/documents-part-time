@@ -46,7 +46,7 @@ webdev-full-
 
 - Claudia Infantes Villafranca [link](https://pjharvey38.github.io/Ironhack-Game/) [Slides](https://slides.com/claudiainfantesvillafranca/super-pikara)
 - Inés Castelltort [link](https://inescv.github.io/WhatTheColor/) [Slides](https://slides.com/inescv/deck#/)
-- Elena Isla Fañanas [link](https://elenaisla.github.io/deliveryOnTime/) [Slides](https://slides.com/elisfa/delivery-on-time/live#/3)
+- Elena Isla Fañanas [link](https://elenaisla.github.io/deliveryOnTime/) [Slides](https://slides.com/elisfa/delivery-on-time)
 - Marco Gallo [link](https://marcgal.github.io/Angry-Cyclist/) [Slides](https://slides.com/margal/angry-fietser)
 - Néstor Cabello Herrero [link](https://nessiec86.github.io/Space-ships/) [Slides](https://slides.com/nesc86/deck)
 - Jorge de Juana [link](https://jdej.github.io/AnjanasFury/) [Slides](https://slides.com/jdej/deck#/)
@@ -56,5 +56,5 @@ webdev-full-
 - Hugo Resende [link](https://dafirma.github.io/maumau/) [Slides](https://slides.com/dafirma/mau-mau-card-game)
 - Monica Lopez [link](https://monicalopezgris.github.io/dino-clone/) [Slides](https://docs.google.com/presentation/d/1JDRqRsvdSR03eA8z_SP6uwnXWxRFYOnq3Xb64Yc9TtY/edit?usp=sharing)
 - Oriol Carbó Calvet [link](https://sandaun.github.io/bomberman-game/) [Slides](https://slides.com/oriolcarbo/bomberman)
-- Marcos Tagliabue [link](https://meta103.github.io/Gravity-Runner/) [Slides](https://slides.com/marcostagliabue/gravity/edit)
-- Zuzana Nováková [link](https://zuzkanovakova.github.io/JSFunctionMaster/) [Slides](https://slides.com/zuzananovakova/deck/live#/4)
+- Marcos Tagliabue [link](https://meta103.github.io/Gravity-Runner/) [Slides](https://slides.com/marcostagliabue/gravity)
+- Zuzana Nováková [link](https://zuzkanovakova.github.io/JSFunctionMaster/) [Slides](https://slides.com/zuzananovakova/deck)

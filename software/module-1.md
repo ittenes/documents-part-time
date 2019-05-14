@@ -28,3 +28,11 @@
 ## optional software
 
 - Oh My Zsh [instructions](https://github.com/robbyrussell/oh-my-zsh)
+
+- vscode
+- node
+  - server
+  - http-server
+- iterm2 ó Terminal
+- zsh
+- config git

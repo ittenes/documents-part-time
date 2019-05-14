@@ -11,6 +11,7 @@
     sudo tar -xzf postman.tar.gz -C /opt
     rm postman.tar.gz
     sudo ln -s /opt/Postman/Postman /usr/bin/postman
+    ```
 
 ## global npm packages
 
@@ -25,8 +26,17 @@
 
 ## vs code extensions
 
-  - eslint
+- eslint
 
 ## vs code configuration
 
-  - `"eslint.autoFixOnSave": true`
+- `"eslint.autoFixOnSave": true`
+
+- eslint
+- mongoDB
+- postman
+- nodemon
+
+- cuenta de Mongo Atlas
+- cuenta de heroku
+-

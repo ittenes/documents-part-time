@@ -1,4 +1,4 @@
-# Project Name
+# <Project Name>
 
 ## Description
 
@@ -6,19 +6,20 @@ Describe your project in one/two lines.
 
 ## User Stories
 
--  **404:** As an anon/user I can see a 404 page if I try to reach a page that does not exist so that I know it's my fault
--  **Signup:** As an anon I can sign up in the platform so that I can start saving favorite restaurants
--  **Login:** As a user I can login to the platform so that I can see my favorite restaurants
--  **Logout:** As a user I can logout from the platform so no one else can use it
--  **Add Restaurants** As a user I can add a restaurant so that I can share it with the community
--  **List Restaurants** As a user I want to see the restaurants so that I can choose one to eat
--  **Search Restaurants** As a user I want to search restaurants by name so that I know if it´s already in the platform
--  **Add to favorites** As a user I want to add a restaurant to favorite so that I can save the restaurants that I liked the most
--  **See my favorites** As a user I want to see my favorite restaurantes so that I can see the ones I liked the most
+- **404:** As an anon/user I can see a 404 page if I try to reach a page that does not exist so that I know it's my fault
+- **Signup:** As an anon I can sign up in the platform so that I can start saving favorite restaurants
+- **Login:** As a user I can login to the platform so that I can see my favorite restaurants
+- **Logout:** As a user I can logout from the platform so no one else can use it
+- **Add Restaurants** As a user I can add a restaurant so that I can share it with the community
+- **List Restaurants** As a user I want to see the restaurants so that I can choose one to eat
+- **Search Restaurants** As a user I want to search restaurants by name so that I know if it´s already in the platform
+- **Add to favorites** As a user I want to add a restaurant to favorite so that I can save the restaurants that I liked the most
+- **See my favorites** As a user I want to see my favorite restaurantes so that I can see the ones I liked the most
 
 ## Backlog
 
 User profile:
+
 - see my profile
 - upload my profile picture
 - see other users profile
@@ -26,13 +27,15 @@ User profile:
 - list events the user is attending
 
 Geo Location:
+
 - add geolocation to events when creating
 - show event in a map in event detail page
 - show all events in a map in the event list page
 
 Homepage:
+
 - ...
-  
+
 # Client
 
 ## Routes
@@ -51,23 +54,23 @@ Homepage:
   - anon only
   - login form, link to signup
   - navigate to homepage after login
-- `/restaurants` 
+- `/restaurants`
   - RestaurantListPageComponent
   - public
   - shows all restaurants, links to details
   - search restaurants by name
-- `/restaurants/create` 
+- `/restaurants/create`
   - RestaurantCreatePageComponent
   - user only
   - creates a new restaurant
   - navigates to restaurant's detail page after creation
-- `/restaurants/:id` 
-  - RestaurantDetailPageComponent 
+- `/restaurants/:id`
+  - RestaurantDetailPageComponent
   - public
   - details of one restaurant
   - button to add to favorite
   - show star if in favorites already
-- `/profile/me` 
+- `/profile/me`
   - ProfilePageComponent
   - user only
   - my details
@@ -76,7 +79,6 @@ Homepage:
 - `**`
   - NotFoundPageComponent
 
-
 ## Components
 
 - Restaurant Card component
@@ -84,7 +86,6 @@ Homepage:
   - Output: favorite(restaurantId: string, on: boolean)
 - Search component
   - Output: change(terms: string)
-
 
 ## Services
 
@@ -100,7 +101,7 @@ Homepage:
   - restaurant.create(data)
   - restaurant.detail(id)
   - restaurant.addFavorite(id)
-  - restaurant.removeFavorite(id)   
+  - restaurant.removeFavorite(id)
 
 # Server
 
@@ -183,8 +184,6 @@ address - String
   - create restaurant
   - 200 with restaurant object
 - GET /restaurant/:id
-
-  
 
 ## Links
 

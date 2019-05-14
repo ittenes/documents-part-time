@@ -1,15 +1,6 @@
 # software required (m3)
 
+- create-react-app
+- firebase - gmail
 
-## global npm packages
-
-- typescript
-- @angular/cli@latest
-
-## vscode extension
-
-- tslint
-
-## vs code configuration
-
-- `"tslint.autoFixOnSave": true`
+- react devtools de chrome
