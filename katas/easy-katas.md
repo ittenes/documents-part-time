@@ -1,5 +1,25 @@
 # Easy Katas Modulo 1
 
+- [Find numbers which are divisible by given number](https://www.codewars.com/kata/55edaba99da3a9c84000003b)
+```
+function divisibleBy(numbers, divisor){
+  let result = [];
+  numbers.forEach((number) => {
+    if (number % divisor === 0)
+      result.push(number);
+  });
+  return result;
+}
+```
+
+
+- [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
+```
+function removeChar(str){
+  return str.slice(1, str.length-1);
+};
+```
+
 - [List Filtering](https://www.codewars.com/kata/list-filtering/javascript)
 
 ```
