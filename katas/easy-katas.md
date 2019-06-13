@@ -1,14 +1,17 @@
 # Easy Katas Modulo 1
 
+
+- [Get the mean of an array](https://www.codewars.com/kata/563e320cee5dddcf77000158)
+```
+function getAverage(marks){
+ return Math.floor(marks.reduce((acc, curr) => acc + curr, 0) / marks.length)
+}
+```
+
 - [Find numbers which are divisible by given number](https://www.codewars.com/kata/55edaba99da3a9c84000003b)
 ```
-function divisibleBy(numbers, divisor){
-  let result = [];
-  numbers.forEach((number) => {
-    if (number % divisor === 0)
-      result.push(number);
-  });
-  return result;
+function getAverage(marks){
+  return parseInt((marks.reduce((total,n) => total+=n,0)) / marks.length);
 }
 ```
 
