@@ -1,5 +1,27 @@
 # Easy Katas Modulo 1
 
+- [Count of positives / sum of negatives: ](https://www.codewars.com/kata/576bb71bbbcf0951d5000044)
+```
+function countPositivesSumNegatives(input) {
+    let result = [];
+    let counter=0;
+    let accumulator = 0;
+    
+    if ( input && input.length >= 1){
+      input.forEach(num => {
+        if (num > 0){
+          counter++;
+        } else {
+          accumulator += num;
+        }
+      });
+      result[0]= counter;
+      result[1]= accumulator;
+    }
+    
+    return result;
+}
+```
 
 - [Get the mean of an array](https://www.codewars.com/kata/563e320cee5dddcf77000158)
 ```
