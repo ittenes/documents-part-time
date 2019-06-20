@@ -1,5 +1,12 @@
 # Easy Katas Modulo 1
 
+- [Sum Mixed Array: ](https://www.codewars.com/kata/57eaeb9578748ff92a000009)
+```
+function sumMix(x){
+  return x.reduce((total, n) => total += parseInt(n), 0)
+}
+```
+
 - [Count of positives / sum of negatives: ](https://www.codewars.com/kata/576bb71bbbcf0951d5000044)
 ```
 function countPositivesSumNegatives(input) {
