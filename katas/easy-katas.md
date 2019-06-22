@@ -1,5 +1,21 @@
 # Easy Katas Modulo 1
 
+- [Number of anagrams in an array of words: ](https://www.codewars.com/kata/587e18b97a25e865530000d8)
+```
+function anagramCounter (wordsArray) {
+  let counter = 0;
+  wordsArray.forEach((string, index) => {
+    for (let i=(index+1); i < wordsArray.length; i++) {
+      if (string.length === wordsArray[i].length){
+        (wordsArray[i].split("").filter(letter => string.includes(letter)).length === string.length) && counter++;
+      }
+    }
+  });
+
+  return counter;
+}
+```
+
 - [Sum Mixed Array: ](https://www.codewars.com/kata/57eaeb9578748ff92a000009)
 ```
 function sumMix(x){
