@@ -1,5 +1,16 @@
 # Easy Katas Modulo 1
 
+- [Find the missing letter: ](https://www.codewars.com/kata/5839edaa6754d6fec10000a2)
+```
+function findMissingLetter(array){
+  for (let i = 0; i < (array.length-1) ; i++) {
+    if ((array[i].charCodeAt(0)+1) !== array[i+1].charCodeAt(0)){
+      return String.fromCharCode(array[i].charCodeAt(0) + 1);
+    }
+  } 
+}
+```
+
 - [Number of anagrams in an array of words: ](https://www.codewars.com/kata/587e18b97a25e865530000d8)
 ```
 function anagramCounter (wordsArray) {
